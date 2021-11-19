@@ -4,9 +4,15 @@
 }
 
 .Menu .primary-text{
-  padding-top: 5%
+  padding-top: 5%;
+  text-align: center;
+  color: white;
+  font-size: 500%;
 }
 
 .Menu .secondary-text{
-  padding-bottom: 3%
+  padding-bottom: 3%;
+text-align: center;
+color: white;
+font-size: 300%;
 }
